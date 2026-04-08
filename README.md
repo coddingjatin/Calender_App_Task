@@ -16,7 +16,7 @@ A premium, responsive, and interactive **Wall Calendar Web App** built with **Re
 
 ---
 
-## ✨ Features
+## Features
 
 ### Calendar Grid
 
