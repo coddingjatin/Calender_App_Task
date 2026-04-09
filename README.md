@@ -2,19 +2,13 @@
 
 A premium, responsive, and interactive **Wall Calendar Web App** built with **React (Next.js)** and **Tailwind CSS**, inspired by a modern physical calendar design. This project demonstrates advanced frontend engineering skills including UI/UX design, state management, and responsive layouts.
 
----
-
 ## Live Demo
 
-👉 * *
-
----
+👉 *https://calenderappfrontend-phi.vercel.app/*
 
 ## Video Demo
 
-👉 **
-
----
+👉 *https://youtu.be/bdwzPUrBLSs*
 
 ## Features
 
@@ -63,8 +57,6 @@ A premium, responsive, and interactive **Wall Calendar Web App** built with **Re
 * Smooth transition animations
 * Weekend highlights
 
----
-
 ## Tech Stack
 
 * **Framework:** Next.js (React)
@@ -72,8 +64,6 @@ A premium, responsive, and interactive **Wall Calendar Web App** built with **Re
 * **Animations:** Framer Motion
 * **State Management:** React Hooks
 * **Persistence:** localStorage
-
----
 
 ## Project Structure
 
@@ -98,8 +88,6 @@ A premium, responsive, and interactive **Wall Calendar Web App** built with **Re
   globals.css
 ```
 
----
-
 ## Installation & Setup
 
 ```bash
@@ -118,7 +106,6 @@ npm run dev
 
 👉 App will run on: `http://localhost:3000`
 
----
 
 ## Key Implementation Details
 
@@ -148,7 +135,6 @@ npm run dev
   * `lg:` for desktop
 * Flexible layout using grid + flexbox
 
----
 
 ## Design Approach
 
@@ -158,7 +144,6 @@ The UI is inspired by a **physical wall calendar**, focusing on:
 * Clean spacing and alignment
 * Minimal yet functional design
 
----
 
 ## Future Improvements
 
@@ -167,5 +152,3 @@ The UI is inspired by a **physical wall calendar**, focusing on:
 * Dynamic theme based on image
 * Drag & drop notes
 * Holiday API integration
-
----
